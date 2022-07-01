@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:Front-end
 - 🌱 I’m currently learning:Javascript and mysql
-- 🤔 I’m looking for help with: ele/dele.
+- 🤔 I’m identify myself: ele/dele.
 - 📫 How to reach me: vitorp.sci@gmail.com
 
 <div align="center">
