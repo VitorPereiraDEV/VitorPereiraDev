@@ -2,8 +2,8 @@
 
 =
 
-- 🔭 I’m currently working on:Front-end
-- 🌱 I’m currently learning:Javascript and mysql
+- 🔭 I’m currently working on: Front-end
+- 🌱 I’m currently learning: Javascript, React and mysql
 - ✋ I’m identify myself: ele/dele.
 - 📫 How to reach me: vitorp.sci@gmail.com
 
